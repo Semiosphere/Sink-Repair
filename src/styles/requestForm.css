@@ -1,0 +1,17 @@
+.button {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(66, 67, 145);
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.label {
+    font-size: large;
+}
